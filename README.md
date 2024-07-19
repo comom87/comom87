@@ -2,10 +2,23 @@
 
 ## 🛠️ Skills
 ### Language
-### Framework & Library
-### Database & Infrastructure
-### Tool
+- HTML / CSS
+- Python
+- Java
 
+### Framework & Library
+- Django
+- Django REST Framework
+- Spring Boot
+
+### Database & Infrastructure
+- MySQL
+- AWS(EC2, RDS, S3)
+
+### Tool
+- Git / Github
+- VS Code / IntelliJ
+- Slack / Discord
 
 <!--
 **comom87/comom87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
